@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\SVG\\bg.svg"
     },
     {
+      "Id": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\SVG\\wave.svg",
+      "PackagePath": "staticwebassets\\SVG\\wave.svg"
+    },
+    {
       "Id": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -19,6 +23,10 @@
     {
       "Id": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\images\\Gif.gif",
       "PackagePath": "staticwebassets\\images\\Gif.gif"
+    },
+    {
+      "Id": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\images\\ths.gif",
+      "PackagePath": "staticwebassets\\images\\ths.gif"
     },
     {
       "Id": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\js\\site.js",
@@ -187,6 +195,10 @@
     {
       "Id": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\music\\videoplayback.mp3",
+      "PackagePath": "staticwebassets\\music\\videoplayback.mp3"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.dotnetsample.props",

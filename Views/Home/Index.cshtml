@@ -22,13 +22,23 @@ width: 1000px;
 .headers{
     text-align: center;
 }
-
+table {
+    background-color: #eeeeeefd;
+    width: 35%;
+    text-align: center;
+}
+.center {
+  text-align: center;
+}
 
 </style>
 
 <h1 class="headers">Sample Student Information</h1>
-
-<table border="1" class="student-table">
+<div class="center">
+    <button class="tons" id="buttonsss">CLICK ME :D</button>
+    </div>
+    <br>
+<table border="1" class="student-table" id="Tb">
     <thead>
         <tr>
             <th>Name</th>
@@ -51,5 +61,17 @@ width: 1000px;
 </table>
 <br>
 <br>
-<div><img src="~/images/Gif.gif">
+<div>
+    <audio loop id="ms" src="~/music/videoplayback.mp3"></audio>
 </div>
+
+<script>
+document.getElementById("buttonsss").addEventListener("click", function () {
+        var audio = new Audio("/music/videoplayback.mp3");
+        audio.volume = 0.1;
+        audio.play();
+        document.getElementById("buttonsss").disabled = true;
+        })
+        
+//NO PAUSE, Enjoy Fitgirl's repack music :D
+</script>

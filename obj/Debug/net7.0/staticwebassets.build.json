@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MX6lebCICx8OIdP+ZWj4cnuRmNK1dMIPvLBnx1ve8Dg=",
+  "Hash": "0zGgGRby0rWQiUvdGdo/oJ9HTSV5EZGYPapBBeoAwLs=",
   "Source": "dotnetsample",
   "BasePath": "_content/dotnetsample",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Gif.gif"
+    },
+    {
+      "Identity": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\images\\ths.gif",
+      "SourceId": "dotnetsample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\",
+      "BasePath": "_content/dotnetsample",
+      "RelativePath": "images/ths.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ths.gif"
     },
     {
       "Identity": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\js\\site.js",
@@ -816,6 +833,23 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\music\\videoplayback.mp3",
+      "SourceId": "dotnetsample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\",
+      "BasePath": "_content/dotnetsample",
+      "RelativePath": "music/videoplayback.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music\\videoplayback.mp3"
+    },
+    {
       "Identity": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\SVG\\bg.svg",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
@@ -831,6 +865,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\SVG\\bg.svg"
+    },
+    {
+      "Identity": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\SVG\\wave.svg",
+      "SourceId": "dotnetsample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DaddyDomNaSoftBoy\\Documents\\GitHub\\IPT102-File-for-ASP\\wwwroot\\",
+      "BasePath": "_content/dotnetsample",
+      "RelativePath": "SVG/wave.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SVG\\wave.svg"
     }
   ]
 }
