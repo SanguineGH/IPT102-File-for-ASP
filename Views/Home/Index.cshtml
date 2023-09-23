@@ -11,10 +11,22 @@ background: #ffd7d7;
 .student-table td {
 padding: 4px 8px;
 border: 1px solid #d6d6d6;
+
 }
+img {
+width: 1000px;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.headers{
+    text-align: center;
+}
+
+
 </style>
 
-<h1>Sample Student Information</h1>
+<h1 class="headers">Sample Student Information</h1>
 
 <table border="1" class="student-table">
     <thead>
@@ -22,6 +34,7 @@ border: 1px solid #d6d6d6;
             <th>Name</th>
             <th>Student ID</th>
             <th>Age</th>
+            <th>Grades</th>
         </tr>
     </thead>
     <tbody>
@@ -31,8 +44,12 @@ border: 1px solid #d6d6d6;
                 <td>@student.Name</td>
                 <td>@student.StudentId</td>
                 <td>@student.StudentAge</td>
+                <td>@student.StudentGrade</td>
             </tr>
         }
     </tbody>
 </table>
-<img src="~/images/Gif.gif">
+<br>
+<br>
+<div><img src="~/images/Gif.gif">
+</div>
